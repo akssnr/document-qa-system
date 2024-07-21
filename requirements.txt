@@ -1,0 +1,6 @@
+streamlit
+pandas
+pypdf
+langchain
+langchain-community
+faiss-cpu  # faiss-gpu
